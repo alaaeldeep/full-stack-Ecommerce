@@ -1,0 +1,63 @@
+.aboutContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
+    gap: 3rem;
+}
+.headTitle {
+    font-weight: bold;
+    font-size: 2.5rem;
+    text-align: center;
+}
+.headTitle span {
+    color: #74b9ff;
+}
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
+}
+.aboutSummary {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+.paragraphContainer {
+    max-width: 500px;
+    padding: 0 40px;
+}
+.leaderContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+.leaderCard {
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    border-radius: 15px;
+}
+.leaderCard img {
+    border-radius: 15px 15px 0px 0px;
+}
+
+.leaderTitle:after {
+    content: "";
+    display: block;
+    position: relative;
+    width: 20%;
+    border: 2px solid #898989;
+    margin-top: 8px;
+}
+.leaderDescription {
+    padding: 5px;
+}

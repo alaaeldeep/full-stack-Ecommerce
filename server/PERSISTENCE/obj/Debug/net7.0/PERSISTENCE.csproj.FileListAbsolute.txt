@@ -1,0 +1,17 @@
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\bin\Debug\net7.0\PERSISTENCE.deps.json
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\bin\Debug\net7.0\PERSISTENCE.runtimeconfig.json
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\bin\Debug\net7.0\PERSISTENCE.dll
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\bin\Debug\net7.0\PERSISTENCE.pdb
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\PERSISTENCE.csproj.AssemblyReference.cache
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\PERSISTENCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\PERSISTENCE.AssemblyInfoInputs.cache
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\PERSISTENCE.AssemblyInfo.cs
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\PERSISTENCE.csproj.CoreCompileInputs.cache
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\PERSISTENCE.csproj.CopyComplete
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\PERSISTENCE.dll
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\refint\PERSISTENCE.dll
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\PERSISTENCE.pdb
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\PERSISTENCE.genruntimeconfig.cache
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\obj\Debug\net7.0\ref\PERSISTENCE.dll
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\bin\Debug\net7.0\DOMAIN.dll
+C:\Users\alaa\Desktop\ecommerce\PERSISTENCE\bin\Debug\net7.0\DOMAIN.pdb

@@ -1,0 +1,14 @@
+C:\Users\alaa\Desktop\ecommerce\CORE\bin\Debug\net7.0\CORE.deps.json
+C:\Users\alaa\Desktop\ecommerce\CORE\bin\Debug\net7.0\CORE.runtimeconfig.json
+C:\Users\alaa\Desktop\ecommerce\CORE\bin\Debug\net7.0\CORE.dll
+C:\Users\alaa\Desktop\ecommerce\CORE\bin\Debug\net7.0\CORE.pdb
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\CORE.csproj.AssemblyReference.cache
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\CORE.AssemblyInfoInputs.cache
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\CORE.AssemblyInfo.cs
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\CORE.csproj.CoreCompileInputs.cache
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\CORE.dll
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\refint\CORE.dll
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\CORE.pdb
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\CORE.genruntimeconfig.cache
+C:\Users\alaa\Desktop\ecommerce\CORE\obj\Debug\net7.0\ref\CORE.dll

@@ -1,0 +1,17 @@
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\bin\Debug\net7.0\APPLICATION.deps.json
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\bin\Debug\net7.0\APPLICATION.dll
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\bin\Debug\net7.0\APPLICATION.pdb
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\bin\Debug\net7.0\DOMAIN.dll
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\bin\Debug\net7.0\PERSISTENCE.dll
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\bin\Debug\net7.0\DOMAIN.pdb
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\bin\Debug\net7.0\PERSISTENCE.pdb
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\APPLICATION.AssemblyInfoInputs.cache
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\APPLICATION.AssemblyInfo.cs
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\APPLICATION.csproj.CopyComplete
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\APPLICATION.dll
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\refint\APPLICATION.dll
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\APPLICATION.pdb
+C:\Users\alaa\Desktop\ecommerce\APPLICATION\obj\Debug\net7.0\ref\APPLICATION.dll

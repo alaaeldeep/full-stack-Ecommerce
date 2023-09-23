@@ -1,0 +1,22 @@
+.productContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.productImage {
+    border-radius: 15px;
+}
+.productData {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.productLabel {
+    font-weight: bold;
+}
+.priceLabel {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}

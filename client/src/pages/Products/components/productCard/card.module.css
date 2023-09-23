@@ -1,0 +1,66 @@
+.overlayX {
+    inset: 0;
+    transform: scale(0);
+    transition: all 0.3s ease-in-out;
+}
+
+.image_wrapper:hover .overlayX {
+    transform: scale(1);
+    background-color: rgba(234, 234, 234, 0.163);
+}
+.image_wrapper {
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+.ProductImage {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.btnContainer {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    transition: all 0.3s;
+}
+
+.btn {
+    padding: 8px 12px;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #607d8b;
+    color: white;
+    width: 30%;
+}
+
+.priceContainer {
+    display: flex;
+    gap: 12px;
+    padding: 20px;
+}
+.pricePadge {
+    background-color: #bbf7d0;
+    font-weight: bold;
+    color: #15803d;
+    padding: 5px;
+    border-radius: 5px;
+}
+.pricePadge2 {
+    background-color: #fecaca;
+    font-weight: bold;
+    color: #b91c1c;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: line-through;
+}

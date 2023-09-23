@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+
+    margin: 20px;
+}
+.accordion {
+    height: 100%;
+    width: 300px;
+    /*  padding: 10px 30px; */
+}
+
+.productsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    /* padding-left: 40px; */
+    justify-content: start;
+}

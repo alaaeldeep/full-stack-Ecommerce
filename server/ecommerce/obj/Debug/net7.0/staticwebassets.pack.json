@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alaa\\Desktop\\ecommerce\\ecommerce\\wwwroot\\images\\jacit.jpg",
+      "PackagePath": "staticwebassets\\images\\jacit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alaa\\Desktop\\ecommerce\\ecommerce\\wwwroot\\images\\pag.jpg",
+      "PackagePath": "staticwebassets\\images\\pag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alaa\\Desktop\\ecommerce\\ecommerce\\wwwroot\\images\\products\\328310168_1147215999294862_6102681924086653483_n.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\328310168_1147215999294862_6102681924086653483_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alaa\\Desktop\\ecommerce\\ecommerce\\wwwroot\\images\\products\\Screenshot 2023-03-31 204158.png",
+      "PackagePath": "staticwebassets\\images\\products\\Screenshot 2023-03-31 204158.png"
+    },
+    {
+      "Id": "C:\\Users\\alaa\\Desktop\\ecommerce\\ecommerce\\wwwroot\\images\\t-shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\t-shirt.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
